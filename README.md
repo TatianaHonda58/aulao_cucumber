@@ -16,7 +16,7 @@ Este projeto contém a automação de testes End-to-End (E2E) para validação d
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/TatianaHonda58/aulao_cucumber.git](https://github.com/TatianaHonda58/aulao_cucumber.git)
+git clone https://github.com/TatianaHonda58/aulao_cucumber.git
 cd aulao_cucumber
 ```
 
